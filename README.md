@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JobJunction
 
 **Connecting talent with opportunities using an interactive and dynamic MERN-based job portal.**
@@ -75,4 +76,6 @@ Email: isajidkhan03@gmail.com
 GitHub:https://github.com/khansajid1
 
 
+=======
+>>>>>>> fe644ce4ab7a9ba3445689576e5c4985d5132876
 
