@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JobJunction
 
 **Connecting talent with opportunities using an interactive and dynamic MERN-based job portal.**
@@ -7,7 +6,6 @@
 ### About
 JobJunction is a comprehensive job portal designed to bridge the gap between job seekers and employers. It offers an efficient, user-friendly interface for managing job postings, applications, and searches, all powered by the MERN stack.
 
----
 
 ### Features
 - **Job Seekers**:
@@ -21,7 +19,6 @@ JobJunction is a comprehensive job portal designed to bridge the gap between job
 - **Secure Authentication**: User registration and login with JWT security.
 - **Real-Time Updates**: Dynamic dashboards and live job application updates.
 
----
 
 ### Tech Stack
 - **Frontend**: React.js, Material-UI/Bootstrap for styling.
@@ -29,7 +26,6 @@ JobJunction is a comprehensive job portal designed to bridge the gap between job
 - **Database**: MongoDB for data storage.
 - **Others**: RESTful APIs, JWT for authentication, and Axios for HTTP requests.
 
----
 
 ### Prerequisites
 - Install [Node.js](https://nodejs.org/) (v14+ recommended).
@@ -37,7 +33,6 @@ JobJunction is a comprehensive job portal designed to bridge the gap between job
 - Git installed for version control.
 - A code editor like VS Code.
 
----
 
 ### Installation
 
