@@ -59,9 +59,6 @@ npm run dev
 cd frontend
 npm run dev
 
-### Clone the forked repository:
-git clone https://github.com/khansajid1/jobjunction.git
-
 ### Create a new branch:
 git checkout -b feature-name
 
